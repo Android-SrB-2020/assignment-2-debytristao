@@ -22,9 +22,16 @@
         tools:layout="@layout/fragment_cheat_" >
         <argument
             android:name="question"
-            app:argType="integer" />
+            app:argType="integer"
+            />
         <argument
             android:name="answer"
-            app:argType="boolean" />
+            app:argType="boolean"
+            />
     </fragment>
+    <fragment
+        android:id="@+id/about_Fragment"
+        android:name="work.nbcc.quiz.About_Fragment"
+        android:label="fragment_about_"
+        tools:layout="@layout/fragment_about_" />
 </navigation>

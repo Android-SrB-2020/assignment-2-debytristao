@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">The Rick and Morty Quiz App</string>
     <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
     <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
     <string name="question_3">Rick &amp; Morty Have Appeared In The Opening Title Screen Of The Simpsons?</string>
@@ -21,7 +21,12 @@
     <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
     <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Calle Michael &amp; Pichael?</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About Rick and Morty</string>
+
+    <string name="aboutText">After having been missing for nearly 20 years, Rick Sanchez suddenly arrives at daughter Beths doorstep to move in with her and her family.
+        Although Beth welcomes Rick into her home, her husband, Jerry, is not  as happy about the family reunion. Jerry is concerned about Rick, a sociopathic scientist, using the garage as his personal laboratory.
+        In the lab, Rick works on a number of sci-fi gadgets, some of which could be considered dangerous. But that's not all Rick does that concerns Jerry.He also goes on adventures across the universe that often involve his grandchildren, Morty and Summer.
+    </string>
+
 
 </resources>
