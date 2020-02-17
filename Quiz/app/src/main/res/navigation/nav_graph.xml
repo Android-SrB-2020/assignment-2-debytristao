@@ -14,6 +14,12 @@
             app:destination="@id/cheatFragment" />
     </fragment>
 
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="work.nbcc.quiz.About_Fragment"
+        android:label="About Rick and Morty"
+        tools:layout="@layout/fragment_about_" />
+
 
     <fragment
         android:id="@+id/cheatFragment"

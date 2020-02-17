@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/layout">
-
+    </androidx.drawerlayout.widget.DrawerLayout>
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
@@ -30,5 +30,5 @@
                 app:defaultNavHost="true" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-    </androidx.drawerlayout.widget.DrawerLayout>
+
 </layout>
